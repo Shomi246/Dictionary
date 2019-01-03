@@ -1,0 +1,10 @@
+F:\ASP.NET\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+F:\ASP.NET\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+F:\ASP.NET\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+F:\ASP.NET\Dictionary\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+F:\ASP.NET\Dictionary\Dictionary\obj\Debug\Dictionary.Dictionary.resources
+F:\ASP.NET\Dictionary\Dictionary\obj\Debug\Dictionary.Add.resources
+F:\ASP.NET\Dictionary\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+F:\ASP.NET\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
+F:\ASP.NET\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+F:\ASP.NET\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
